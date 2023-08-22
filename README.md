@@ -7,9 +7,13 @@
 
 * 文档共有四个文件：
 <img width="207" alt="image-20230822103147279" src="https://github.com/one-lucky-pig/File-Transfer/assets/66020383/494b14cd-f418-466e-b837-0d9d7a4e6989">
+
 1. <img width="122" alt="image-20230822103303979" src="https://github.com/one-lucky-pig/File-Transfer/assets/66020383/e306afe8-38d0-4b5d-afdb-ef471948bb34">为程序源码，本软件使用python语言编写，其中只使用到第三方库PyQt
+
 2. <img width="172" alt="image-20230822103627327" src="https://github.com/one-lucky-pig/File-Transfer/assets/66020383/c5ff99e7-c404-4bf1-ba37-a4a3a0ab75bc">若电脑为MacBook，且CPU为M系列（M1和M2），使用该软件
+
 3. <img width="160" alt="image-20230822104045142" src="https://github.com/one-lucky-pig/File-Transfer/assets/66020383/1ba379d1-cb9f-42b8-b224-59653f7dcaf3">若电脑为MacBook，且CPU为Inte系列，使用该软件
+
 4. <img width="153" alt="image-20230822104134003" src="https://github.com/one-lucky-pig/File-Transfer/assets/66020383/7d50976c-9395-4a61-8bec-b14e25b6b5fd">若电脑为WIndows，且CPU为64位，使用该软件
 
 ## 使用说明
